@@ -16,7 +16,8 @@ REVEAL_THEME=solarized   # Theme of revel to use.
 
 REVEL_OPTS=-V theme=${REVEAL_THEME} \
 	   -V revealjs-url=reveal.js-${REVEAL_VERSION} \
-
+	   --slide-level=2 \
+	   --include-in-header tweak.css
 
 HTML_OPTS= -t ${SLIDE_FORMAT} ${REVEL_OPTS}
 
@@ -30,5 +31,5 @@ all: ${HTML}
 clean:
 	rm -f ${HTML}
 
-%.html: %.md
+%.html: %.md tweak.css
 	pandoc ${HTML_OPTS} -s $< -o $@
