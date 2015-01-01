@@ -2,6 +2,10 @@
 
 LECTURES= GettingStarted
 
+RSYNC_HOST=ppk@turing.cse.iitk.ac.in
+DOCROOT=/homepages/global/ppk
+SLIDES_PATH=teaching/Tools-for-Programming/slides
+
 ################### Configuration ##################.
 
 
@@ -13,9 +17,10 @@ INCREMENTAL_LIST=yes
 MARKDOWN_EXTS=definition_lists
 ################ Hacker zone ################################
 
+RSYNC_DEST=${RSYNC_HOST}:${DOCROOT}/${SLIDES_PATH}
 
 REVEL_OPTS=-V theme=${REVEAL_THEME} \
-	   -V revealjs-url=reveal.js-${REVEAL_VERSION} \
+	   -V revealjs-url=./reveal.js-${REVEAL_VERSION} \
 	   --slide-level=2 \
 	   --include-in-header tweak.css
 ifdef INCREMENTAL_LIST
@@ -29,7 +34,7 @@ HTML=$(addsuffix .html, ${LECTURES})
 PANDOC= pandoc -f markdown+${MARKDOWN_EXTS} ${HTML_OPTS}
 
 
-.PHONY: all clean
+.PHONY: all clean deploy
 
 all: ${HTML}
 
@@ -38,3 +43,6 @@ clean:
 
 %.html: %.md tweak.css
 	${PANDOC} -s $< -o $@
+
+deploy: all
+	rsync -avv *.html reveal* ${RSYNC_DEST}/
