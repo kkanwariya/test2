@@ -1,5 +1,134 @@
 * List of students registered for CS251
 
-| Name | Roll no |
-|------+---------|
-|      |         |
+| Name                            | Roll No |
+|---------------------------------+---------|
+| AMAN BHATI                      |   10066 |
+| ANKUR RAI                       |   10114 |
+| RAJAT JAIN                      |   10569 |
+| ADITYA NIGAM                    |   11040 |
+| AMIT MUNJE                      |   11081 |
+| ASHUTOSH KUMAR                  |   11168 |
+| ATRI BHATTACHARYYA              |   11171 |
+| G V S SASANK MOULI              |   11266 |
+| ISHAAN DUBE                     |   11321 |
+| KHAGESH PATEL                   |   11362 |
+| KRISHNA CHAITANYA K             |   11372 |
+| RAHUL SAINI                     |   11568 |
+| SONIYA BARMATE                  |   11725 |
+| AAHITAGNI MUKHERJEE             |   12001 |
+| ADITYA RAMAMOHAN DEGALA         |   12051 |
+| AMAN ANAND                      |   12082 |
+| AMIT KUMAR MEENA                |   12098 |
+| ANKIT PACHOURI                  |   12123 |
+| ANSHUL GOYAL                    |   12133 |
+| DHRUV SINGAL                    |   12243 |
+| JITAL BHARAT PATEL              |   12323 |
+| M ARVIND                        |   12385 |
+| MAHENDRA KUMAR MEENA (S/O JPM)  |   12390 |
+| RAVI KUMAR                      |   12564 |
+| SHANU VASHISHTHA                |   12657 |
+| SHUBHAM GUPTA                   |   12694 |
+| AADI YOGAKAR                    |   13001 |
+| AAYUSH DHIR                     |   13008 |
+| AAYUSH OJHA                     |   13009 |
+| AAYUSH SHAURYA                  |   13010 |
+| ABDUS SAMAD                     |   13013 |
+| ABHIMANYU YADAV                 |   13020 |
+| ADITYA AGARWAL                  |   13043 |
+| AISHWARYA RAI                   |   13050 |
+| AKASH WAGHELA                   |   13064 |
+| AMARTYA SANYAL                  |   13089 |
+| AMIT KUMAR                      |   13094 |
+| AMIT KUMAR                      |   13095 |
+| AMIT KUMAR RANA                 |   13099 |
+| AMLAN KAR                       |   13105 |
+| ANAND SINGH KUNWAR              |   13110 |
+| ANKIT BHATIA                    |   13116 |
+| ANSHUMAN                        |   13130 |
+| ARPAN AGRAWAL                   |   13145 |
+| ASHOK KUMAR                     |   13160 |
+| ASIM UNMESH                     |   13167 |
+| AVINASH CHOUHAN                 |   13175 |
+| AVINASH KUMAR                   |   13176 |
+| AVINASH MOHAK                   |   13177 |
+| AYUSH AGARWAL                   |   13180 |
+| BAVISHI ROHAN JAYESH            |   13196 |
+| BHUVESH KUMAR                   |   13203 |
+| CHAMBHARE AVINASH SURESH        |   13212 |
+| CHILUKURI KRISHNA BHARATH REDDY |   13219 |
+| CHUNDURI PRAMOD                 |   13221 |
+| DEEPAK KUMAR                    |   13229 |
+| DEVASHISH KUMAR YADAV           |   13240 |
+| DIPTI SINGHAL                   |   13257 |
+| DIVYANSHU SANJAY SHENDE         |   13264 |
+| DORNALA MANIKANTA REDDY         |   13265 |
+| DRISHTI WALI                    |   13266 |
+| GAURAV                          |   13274 |
+| HARPREET SINGH                  |   13288 |
+| HIMANSHU SHUKLA                 |   13309 |
+| JANISH JINDAL                   |   13323 |
+| JUGANU MANTAWAL                 |   13331 |
+| K GOUTHAM REDDY                 |   13334 |
+| KAMESH KANWARIYA                |   13336 |
+| KEERTI ANAND                    |   13344 |
+| KOLLURI AASHISH                 |   13352 |
+| KRITI JOSHI                     |   13358 |
+| KUMAR MANVENDRA PRAMENDRA       |   13363 |
+| M ARUNOTHIA                     |   13378 |
+| MAYANK JOSHI                    |   13399 |
+| MEKALA DHEERAJ                  |   13405 |
+| NAMAN SOGANI                    |   13420 |
+| NIRBHAY JAGDISH MODHE           |   13444 |
+| NISHANT GUPTA                   |   13447 |
+| NISHANT RAI                     |   13449 |
+| PALAK AGARWAL                   |   13453 |
+| PALASH CHAUHAN                  |   13455 |
+| PAMPANA SAI KISHAN              |   13458 |
+| PANKAJ KUMAR SINGH              |   13460 |
+| PANYAM GOWTHAM SAI              |   13463 |
+| PARAG BANSAL                    |   13464 |
+| PATEL JEET SHAILESHKUMAR        |   13465 |
+| PIYUSH MOHAPATRA                |   13474 |
+| PIYUSH SNEH TIRKEY              |   13477 |
+| PRABHANSHU ABHISHEK             |   13480 |
+| PRANAV VAISH                    |   13491 |
+| PRANSHU GUPTA                   |   13493 |
+| PRASHANT KUMAR                  |   13496 |
+| PREETANSH GOYAL                 |   13508 |
+| PREYANSH MITHARWAL              |   13509 |
+| PRINCE KHATARKAR                |   13510 |
+| R SUNDARARAJAN                  |   13523 |
+| RACHITA CHHAPARIA               |   13525 |
+| RAHUL KUMAR                     |   13532 |
+| RAHUL KUMAR WADBUDE             |   13533 |
+| RAHUL TUDU                      |   13538 |
+| RAJNESH KUMAR MEENA             |   13546 |
+| RAYAVARAPU NARASIMHA VISWANADH  |   13561 |
+| REVANT TEOTIA                   |   13564 |
+| RISHABH GUPTA                   |   13572 |
+| SACHIN KUMAR                    |   13594 |
+| SAHIL GROVER                    |   13601 |
+| SANDIPAN MANDAL                 |   13616 |
+| SANJANA GARG                    |   13617 |
+| SANJARI SRIVASTAVA              |   13618 |
+| SARANSH SRIVASTAVA              |   13623 |
+| SARTHAK GARG                    |   13624 |
+| SHASWAT CHAUBEY                 |   13652 |
+| SHIV SHANKAR AZAD               |   13655 |
+| SHIVAM MALHOTRA                 |   13660 |
+| SHRUTI BHARGAVA                 |   13671 |
+| SHUBHAM AGRAWAL                 |   13674 |
+| SHUBHAM JAIN                    |   13683 |
+| SONKAMBLE MANISHMURLIDHAR       |   13706 |
+| SOUMYA GAYEN                    |   13708 |
+| SOURAV ANAND                    |   13709 |
+| TARUN KUMAR                     |   13742 |
+| TEEKAM CHAND MANDAN             |   13744 |
+| UTKARSH AGARWAL                 |   13754 |
+| UTKARSH GUPTA                   |   13755 |
+| VAIBHAV KUMAR                   |   13760 |
+| VANDANA GAUTAM                  |   13767 |
+| VEMULA AKHIL                    |   13779 |
+| VIKAS JAIN                      |   13788 |
+| VIVEK VERMA                     |   13806 |
+| ATANU CHAKRABORTY               |   13819 |
