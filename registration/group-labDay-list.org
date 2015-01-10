@@ -1,134 +1,134 @@
-* CS251 lab day and group no list.
+* CS251: Lab and Machine allotted.
 
-| Roll No | Name                            | Dept | Email               | Lab Day   | Machine No |
-|---------+---------------------------------+------+---------------------+-----------+------------|
-|   10066 | AMAN BHATI                      | CSE  | baman@iitk.ac.in    | Monday    |          1 |
-|   10114 | ANKUR RAI                       | CSE  | rankur@iitk.ac.in   | Monday    |          2 |
-|   10569 | RAJAT JAIN                      | CSE  | rajatjn@iitk.ac.in  | Monday    |          3 |
-|   11040 | ADITYA NIGAM                    | CE   | adityam@iitk.ac.in  | Monday    |          4 |
-|   11081 | AMIT MUNJE                      | PHY  | amunje@iitk.ac.in   | Monday    |          5 |
-|   11168 | ASHUTOSH KUMAR                  | CHE  | ashukr@iitk.ac.in   | Monday    |          6 |
-|   11171 | ATRI BHATTACHARYYA              | EE   | atrib@iitk.ac.in    | Monday    |          7 |
-|   11266 | G V S SASANK MOULI              | EE   | sasankm@iitk.ac.in  | Monday    |          8 |
-|   11321 | ISHAAN DUBE                     | CE   | ishaand@iitk.ac.in  | Monday    |          9 |
-|   11362 | KHAGESH PATEL                   | MTH  | kpatel@iitk.ac.in   | Monday    |         10 |
-|   11372 | KRISHNA CHAITANYA K             | EE   | kalagarl@iitk.ac.in | Monday    |         11 |
-|   11568 | RAHUL SAINI                     | CSE  | rsaini@iitk.ac.in   | Monday    |         12 |
-|   11725 | SONIYA BARMATE                  | CSE  | barmate@iitk.ac.in  | Monday    |         13 |
-|   12001 | AAHITAGNI MUKHERJEE             | CE   | ahitagni@iitk.ac.in | Monday    |         14 |
-|   12051 | ADITYA RAMAMOHAN DEGALA         | MTH  | aditya@iitk.ac.in   | Monday    |         15 |
-|   12082 | AMAN ANAND                      | CSE  | amanan@iitk.ac.in   | Monday    |         16 |
-|   12098 | AMIT KUMAR MEENA                | CSE  | amitkm@iitk.ac.in   | Monday    |         17 |
-|   12123 | ANKIT PACHOURI                  | MSE  | ankitpac@iitk.ac.in | Monday    |         18 |
-|   12133 | ANSHUL GOYAL                    | MSE  | anshulgo@iitk.ac.in | Monday    |         19 |
-|   12243 | DHRUV SINGAL                    | CSE  | dhruv@iitk.ac.in    | Monday    |         20 |
-|   12323 | JITAL BHARAT PATEL              | AE   | jital@iitk.ac.in    | Monday    |         21 |
-|   12385 | M ARVIND                        | CHE  | arvram@iitk.ac.in   | Monday    |         22 |
-|   12390 | MAHENDRA KUMAR MEENA (S/O JPM)  | CSE  | mahendrm@iitk.ac.in | Monday    |         23 |
-|   12564 | RAVI KUMAR                      | CSE  | ravikmr@iitk.ac.in  | Monday    |         24 |
-|   12657 | SHANU VASHISHTHA                | CHE  | shanuv@iitk.ac.in   | Monday    |         25 |
-|   12694 | SHUBHAM GUPTA                   | ME   | shubamg@iitk.ac.in  | Monday    |         26 |
-|   13001 | AADI YOGAKAR                    | CSE  | ayogakar@iitk.ac.in | Monday    |         27 |
-|   13008 | AAYUSH DHIR                     | CSE  | aayushd@iitk.ac.in  | Monday    |         28 |
-|   13009 | AAYUSH OJHA                     | CSE  | aayushoj@iitk.ac.in | Monday    |         29 |
-|   13010 | AAYUSH SHAURYA                  | CSE  | ashaurya@iitk.ac.in | Monday    |         30 |
-|   13013 | ABDUS SAMAD                     | CSE  | abdussam@iitk.ac.in | Monday    |         31 |
-|   13020 | ABHIMANYU YADAV                 | CSE  | abhiy@iitk.ac.in    | Monday    |         32 |
-|   13043 | ADITYA AGARWAL                  | CSE  | agaditya@iitk.ac.in | Monday    |         33 |
-|   13050 | AISHWARYA RAI                   | CSE  | aishrai@iitk.ac.in  | Monday    |         34 |
-|   13064 | AKASH WAGHELA                   | CSE  | waghela@iitk.ac.in  | Monday    |         35 |
-|   13089 | AMARTYA SANYAL                  | CSE  | asanyal@iitk.ac.in  | Monday    |         36 |
-|   13094 | AMIT KUMAR                      | CSE  | kmramit@iitk.ac.in  | Monday    |         37 |
-|   13095 | AMIT KUMAR                      | CSE  | amith@iitk.ac.in    | Monday    |         38 |
-|   13099 | AMIT KUMAR RANA                 | CSE  | amitrana@iitk.ac.in | Monday    |         39 |
-|   13105 | AMLAN KAR                       | CSE  | amlan@iitk.ac.in    | Monday    |         40 |
-|   13110 | ANAND SINGH KUNWAR              | CSE  | anandk@iitk.ac.in   | Monday    |         41 |
-|   13116 | ANKIT BHATIA                    | CSE  | ankitbh@iitk.ac.in  | Monday    |         42 |
-|   13130 | ANSHUMAN                        | CSE  | ansuman@iitk.ac.in  | Monday    |         43 |
-|   13145 | ARPAN AGRAWAL                   | CSE  | arpang@iitk.ac.in   | Monday    |         44 |
-|   13160 | ASHOK KUMAR                     | CSE  | ashokkr@iitk.ac.in  | Wednesday |          1 |
-|   13167 | ASIM UNMESH                     | CSE  | aunmesh@iitk.ac.in  | Wednesday |          2 |
-|   13175 | AVINASH CHOUHAN                 | CSE  | cavinash@iitk.ac.in | Wednesday |          3 |
-|   13176 | AVINASH KUMAR                   | CSE  | avicky@iitk.ac.in   | Wednesday |          4 |
-|   13177 | AVINASH MOHAK                   | CSE  | amohak@iitk.ac.in   | Wednesday |          5 |
-|   13180 | AYUSH AGARWAL                   | CSE  | ayushaga@iitk.ac.in | Wednesday |          6 |
-|   13196 | BAVISHI ROHAN JAYESH            | CSE  | rbavishi@iitk.ac.in | Wednesday |          7 |
-|   13203 | BHUVESH KUMAR                   | CSE  | bhuvesh@iitk.ac.in  | Wednesday |          8 |
-|   13212 | CHAMBHARE AVINASH SURESH        | CSE  | avisc@iitk.ac.in    | Wednesday |          9 |
-|   13219 | CHILUKURI KRISHNA BHARATH REDDY | CSE  | crkrish@iitk.ac.in  | Wednesday |         10 |
-|   13221 | CHUNDURI PRAMOD                 | CSE  | chpramod@iitk.ac.in | Wednesday |         11 |
-|   13229 | DEEPAK KUMAR                    | CSE  | depak@iitk.ac.in    | Wednesday |         12 |
-|   13240 | DEVASHISH KUMAR YADAV           | CSE  | devyadav@iitk.ac.in | Wednesday |         13 |
-|   13257 | DIPTI SINGHAL                   | CSE  | dipti@iitk.ac.in    | Wednesday |         14 |
-|   13264 | DIVYANSHU SANJAY SHENDE         | CSE  | divush@iitk.ac.in   | Wednesday |         15 |
-|   13265 | DORNALA MANIKANTA REDDY         | CSE  | manikant@iitk.ac.in | Wednesday |         16 |
-|   13266 | DRISHTI WALI                    | CSE  | drishti@iitk.ac.in  | Wednesday |         17 |
-|   13274 | GAURAV                          | CSE  | pgaurav@iitk.ac.in  | Wednesday |         18 |
-|   13288 | HARPREET SINGH                  | CSE  | hsinghc@iitk.ac.in  | Wednesday |         19 |
-|   13309 | HIMANSHU SHUKLA                 | CSE  | hshukla@iitk.ac.in  | Wednesday |         20 |
-|   13323 | JANISH JINDAL                   | CSE  | janish@iitk.ac.in   | Wednesday |         21 |
-|   13331 | JUGANU MANTAWAL                 | CSE  | juganu@iitk.ac.in   | Wednesday |         22 |
-|   13334 | K GOUTHAM REDDY                 | CSE  | greddy@iitk.ac.in   | Wednesday |         23 |
-|   13336 | KAMESH KANWARIYA                | CSE  | kkamesh@iitk.ac.in  | Wednesday |         24 |
-|   13344 | KEERTI ANAND                    | CSE  | keertian@iitk.ac.in | Wednesday |         25 |
-|   13352 | KOLLURI AASHISH                 | CSE  | kolluri@iitk.ac.in  | Wednesday |         26 |
-|   13358 | KRITI JOSHI                     | CSE  | kritij@iitk.ac.in   | Wednesday |         27 |
-|   13363 | KUMAR MANVENDRA PRAMENDRA       | CSE  | mpkkumar@iitk.ac.in | Wednesday |         28 |
-|   13378 | M ARUNOTHIA                     | CSE  | arunothi@iitk.ac.in | Wednesday |         29 |
-|   13399 | MAYANK JOSHI                    | CSE  | jsmayank@iitk.ac.in | Wednesday |         30 |
-|   13405 | MEKALA DHEERAJ                  | CSE  | dheerajm@iitk.ac.in | Wednesday |         31 |
-|   13420 | NAMAN SOGANI                    | CSE  | namansg@iitk.ac.in  | Wednesday |         32 |
-|   13444 | NIRBHAY JAGDISH MODHE           | CSE  | nirbhaym@iitk.ac.in | Wednesday |         33 |
-|   13447 | NISHANT GUPTA                   | CSE  | nishgu@iitk.ac.in   | Wednesday |         34 |
-|   13449 | NISHANT RAI                     | CSE  | nishantr@iitk.ac.in | Wednesday |         35 |
-|   13453 | PALAK AGARWAL                   | CSE  | palakag@iitk.ac.in  | Wednesday |         36 |
-|   13455 | PALASH CHAUHAN                  | CSE  | palashc@iitk.ac.in  | Wednesday |         37 |
-|   13458 | PAMPANA SAI KISHAN              | CSE  | pkishan@iitk.ac.in  | Wednesday |         38 |
-|   13460 | PANKAJ KUMAR SINGH              | CSE  | kspankaj@iitk.ac.in | Wednesday |         39 |
-|   13463 | PANYAM GOWTHAM SAI              | CSE  | gowtham@iitk.ac.in  | Wednesday |         40 |
-|   13464 | PARAG BANSAL                    | CSE  | paragb@iitk.ac.in   | Wednesday |         41 |
-|   13465 | PATEL JEET SHAILESHKUMAR        | CSE  | jeetp@iitk.ac.in    | Wednesday |         42 |
-|   13474 | PIYUSH MOHAPATRA                | CSE  | mppiyush@iitk.ac.in | Wednesday |         43 |
-|   13477 | PIYUSH SNEH TIRKEY              | CSE  | psneh@iitk.ac.in    | Thursday  |          1 |
-|   13480 | PRABHANSHU ABHISHEK             | CSE  | pabhi@iitk.ac.in    | Thursday  |          2 |
-|   13491 | PRANAV VAISH                    | CSE  | vaish@iitk.ac.in    | Thursday  |          3 |
-|   13493 | PRANSHU GUPTA                   | CSE  | pranshug@iitk.ac.in | Thursday  |          4 |
-|   13496 | PRASHANT KUMAR                  | CSE  | prshntk@iitk.ac.in  | Thursday  |          5 |
-|   13508 | PREETANSH GOYAL                 | CSE  | preetg@iitk.ac.in   | Thursday  |          6 |
-|   13509 | PREYANSH MITHARWAL              | CSE  | preyansh@iitk.ac.in | Thursday  |          7 |
-|   13510 | PRINCE KHATARKAR                | CSE  | kprince@iitk.ac.in  | Thursday  |          8 |
-|   13523 | R SUNDARARAJAN                  | CSE  | rsundar@iitk.ac.in  | Thursday  |          9 |
-|   13525 | RACHITA CHHAPARIA               | CSE  | rachitac@iitk.ac.in | Thursday  |         10 |
-|   13532 | RAHUL KUMAR                     | CSE  | rkrahul@iitk.ac.in  | Thursday  |         11 |
-|   13533 | RAHUL KUMAR WADBUDE             | CSE  | warahul@iitk.ac.in  | Thursday  |         12 |
-|   13538 | RAHUL TUDU                      | CSE  | trahul@iitk.ac.in   | Thursday  |         13 |
-|   13546 | RAJNESH KUMAR MEENA             | CSE  | rajnesh@iitk.ac.in  | Thursday  |         14 |
-|   13561 | RAYAVARAPU NARASIMHA VISWANADH  | CSE  | rnvissu@iitk.ac.in  | Thursday  |         15 |
-|   13564 | REVANT TEOTIA                   | CSE  | trevant@iitk.ac.in  | Thursday  |         16 |
-|   13572 | RISHABH GUPTA                   | CSE  | rishgup@iitk.ac.in  | Thursday  |         17 |
-|   13594 | SACHIN KUMAR                    | CSE  | sachinkr@iitk.ac.in | Thursday  |         18 |
-|   13601 | SAHIL GROVER                    | CSE  | gsahil@iitk.ac.in   | Thursday  |         19 |
-|   13616 | SANDIPAN MANDAL                 | CSE  | mandals@iitk.ac.in  | Thursday  |         20 |
-|   13617 | SANJANA GARG                    | CSE  | gsanjana@iitk.ac.in | Thursday  |         21 |
-|   13618 | SANJARI SRIVASTAVA              | CSE  | sanjari@iitk.ac.in  | Thursday  |         22 |
-|   13623 | SARANSH SRIVASTAVA              | CSE  | ssaransh@iitk.ac.in | Thursday  |         23 |
-|   13624 | SARTHAK GARG                    | CSE  | gsarthak@iitk.ac.in | Thursday  |         24 |
-|   13652 | SHASWAT CHAUBEY                 | CSE  | schaubey@iitk.ac.in | Thursday  |         25 |
-|   13655 | SHIV SHANKAR AZAD               | CSE  | shivazad@iitk.ac.in | Thursday  |         26 |
-|   13660 | SHIVAM MALHOTRA                 | CSE  | mshivam@iitk.ac.in  | Thursday  |         27 |
-|   13671 | SHRUTI BHARGAVA                 | CSE  | shrutib@iitk.ac.in  | Thursday  |         28 |
-|   13674 | SHUBHAM AGRAWAL                 | CSE  | subm@iitk.ac.in     | Thursday  |         29 |
-|   13683 | SHUBHAM JAIN                    | CSE  | shubhja@iitk.ac.in  | Thursday  |         30 |
-|   13706 | SONKAMBLE MANISHMURLIDHAR       | CSE  | manishs@iitk.ac.in  | Thursday  |         31 |
-|   13708 | SOUMYA GAYEN                    | CSE  | gsoumya@iitk.ac.in  | Thursday  |         32 |
-|   13709 | SOURAV ANAND                    | CSE  | souravan@iitk.ac.in | Thursday  |         33 |
-|   13742 | TARUN KUMAR                     | CSE  | tarunkr@iitk.ac.in  | Thursday  |         34 |
-|   13744 | TEEKAM CHAND MANDAN             | CSE  | tcmandan@iitk.ac.in | Thursday  |         35 |
-|   13754 | UTKARSH AGARWAL                 | CSE  | utkarsha@iitk.ac.in | Thursday  |         36 |
-|   13755 | UTKARSH GUPTA                   | CSE  | gutkarsh@iitk.ac.in | Thursday  |         37 |
-|   13760 | VAIBHAV KUMAR                   | CSE  | vaibhvk@iitk.ac.in  | Thursday  |         38 |
-|   13767 | VANDANA GAUTAM                  | CSE  | vandanag@iitk.ac.in | Thursday  |         39 |
-|   13779 | VEMULA AKHIL                    | CSE  | vakhil@iitk.ac.in   | Thursday  |         40 |
-|   13788 | VIKAS JAIN                      | CSE  | vikasj@iitk.ac.in   | Thursday  |         41 |
-|   13806 | VIVEK VERMA                     | CSE  | vivk@iitk.ac.in     | Thursday  |         42 |
-|   13819 | ATANU CHAKRABORTY               | CSE  | atanu@iitk.ac.in    | Thursday  |         43 |
+| Roll No | Name                            | Dept | Email               | Day Allotted | Machine Allotted |
+|---------+---------------------------------+------+---------------------+--------------+------------------|
+|   10066 | AMAN BHATI                      | CSE  | baman@iitk.ac.in    | Thursday     | P/CSE/2011-12/29 |
+|   10114 | ANKUR RAI                       | CSE  | rankur@iitk.ac.in   | Thursday     | P/CSE/2011-12/42 |
+|   10569 | RAJAT JAIN                      | CSE  | rajatjn@iitk.ac.in  | Thursday     | P/CSE/2011-12/53 |
+|   11040 | ADITYA NIGAM                    | CE   | adityam@iitk.ac.in  | Monday       | P/CSE/2011-12/1  |
+|   11081 | AMIT MUNJE                      | PHY  | amunje@iitk.ac.in   | Thursday     | P/CSE/2011-12/54 |
+|   11168 | ASHUTOSH KUMAR                  | CHE  | ashukr@iitk.ac.in   | Thursday     | P/CSE/2011-12/55 |
+|   11171 | ATRI BHATTACHARYYA              | EE   | atrib@iitk.ac.in    | Monday       | P/CSE/2011-12/3  |
+|   11266 | G V S SASANK MOULI              | EE   | sasankm@iitk.ac.in  | Monday       | P/CSE/2011-12/4  |
+|   11321 | ISHAAN DUBE                     | CE   | ishaand@iitk.ac.in  | Thursday     | P/CSE/2011-12/25 |
+|   11362 | KHAGESH PATEL                   | MTH  | kpatel@iitk.ac.in   | Monday       | P/CSE/2011-12/5  |
+|   11372 | KRISHNA CHAITANYA K             | EE   | kalagarl@iitk.ac.in | Thursday     | P/CSE/2011-12/57 |
+|   11568 | RAHUL SAINI                     | CSE  | rsaini@iitk.ac.in   | Monday       | P/CSE/2011-12/6  |
+|   11725 | SONIYA BARMATE                  | CSE  | barmate@iitk.ac.in  | Thursday     | P/CSE/2011-12/52 |
+|   12001 | AAHITAGNI MUKHERJEE             | CE   | ahitagni@iitk.ac.in | Monday       | P/CSE/2011-12/7  |
+|   12051 | ADITYA RAMAMOHAN DEGALA         | MTH  | aditya@iitk.ac.in   | Thursday     | P/CSE/2011-12/58 |
+|   12082 | AMAN ANAND                      | CSE  | amanan@iitk.ac.in   | Thursday     | P/CSE/2011-12/43 |
+|   12098 | AMIT KUMAR MEENA                | CSE  | amitkm@iitk.ac.in   | Thursday     | P/CSE/2011-12/44 |
+|   12123 | ANKIT PACHOURI                  | MSE  | ankitpac@iitk.ac.in | Wednesday    | P/CSE/2011-12/54 |
+|   12133 | ANSHUL GOYAL                    | MSE  | anshulgo@iitk.ac.in | Wednesday    | P/CSE/2011-12/55 |
+|   12243 | DHRUV SINGAL                    | CSE  | dhruv@iitk.ac.in    | Thursday     | P/CSE/2011-12/59 |
+|   12323 | JITAL BHARAT PATEL              | AE   | jital@iitk.ac.in    | Wednesday    | P/CSE/2011-12/25 |
+|   12385 | M ARVIND                        | CHE  | arvram@iitk.ac.in   | Monday       | P/CSE/2011-12/8  |
+|   12390 | MAHENDRA KUMAR MEENA (S/O JPM)  | CSE  | mahendrm@iitk.ac.in | Monday       | P/CSE/2011-12/9  |
+|   12564 | RAVI KUMAR                      | CSE  | ravikmr@iitk.ac.in  | Thursday     | P/CSE/2011-12/60 |
+|   12657 | SHANU VASHISHTHA                | CHE  | shanuv@iitk.ac.in   | Monday       | P/CSE/2011-12/10 |
+|   12694 | SHUBHAM GUPTA                   | ME   | shubamg@iitk.ac.in  | Wednesday    | P/CSE/2011-12/58 |
+|   13001 | AADI YOGAKAR                    | CSE  | ayogakar@iitk.ac.in | Monday       | P/CSE/2011-12/11 |
+|   13008 | AAYUSH DHIR                     | CSE  | aayushd@iitk.ac.in  | Monday       | P/CSE/2011-12/12 |
+|   13009 | AAYUSH OJHA                     | CSE  | aayushoj@iitk.ac.in | Monday       | P/CSE/2011-12/13 |
+|   13010 | AAYUSH SHAURYA                  | CSE  | ashaurya@iitk.ac.in | Monday       | P/CSE/2011-12/14 |
+|   13013 | ABDUS SAMAD                     | CSE  | abdussam@iitk.ac.in | Monday       | P/CSE/2011-12/15 |
+|   13020 | ABHIMANYU YADAV                 | CSE  | abhiy@iitk.ac.in    | Monday       | P/CSE/2011-12/16 |
+|   13043 | ADITYA AGARWAL                  | CSE  | agaditya@iitk.ac.in | Monday       | P/CSE/2011-12/17 |
+|   13050 | AISHWARYA RAI                   | CSE  | aishrai@iitk.ac.in  | Monday       | P/CSE/2011-12/18 |
+|   13064 | AKASH WAGHELA                   | CSE  | waghela@iitk.ac.in  | Monday       | P/CSE/2011-12/32 |
+|   13089 | AMARTYA SANYAL                  | CSE  | asanyal@iitk.ac.in  | Monday       | P/CSE/2011-12/20 |
+|   13094 | AMIT KUMAR                      | CSE  | kmramit@iitk.ac.in  | Monday       | P/CSE/2011-12/21 |
+|   13095 | AMIT KUMAR                      | CSE  | amith@iitk.ac.in    | Monday       | P/CSE/2011-12/35 |
+|   13099 | AMIT KUMAR RANA                 | CSE  | amitrana@iitk.ac.in | Monday       | P/CSE/2011-12/23 |
+|   13105 | AMLAN KAR                       | CSE  | amlan@iitk.ac.in    | Monday       | P/CSE/2011-12/24 |
+|   13110 | ANAND SINGH KUNWAR              | CSE  | anandk@iitk.ac.in   | Monday       | P/CSE/2011-12/33 |
+|   13116 | ANKIT BHATIA                    | CSE  | ankitbh@iitk.ac.in  | Monday       | P/CSE/2011-12/48 |
+|   13130 | ANSHUMAN                        | CSE  | ansuman@iitk.ac.in  | Monday       | P/CSE/2011-12/56 |
+|   13145 | ARPAN AGRAWAL                   | CSE  | arpang@iitk.ac.in   | Monday       | P/CSE/2011-12/36 |
+|   13160 | ASHOK KUMAR                     | CSE  | ashokkr@iitk.ac.in  | Wednesday    | P/CSE/2011-12/1  |
+|   13167 | ASIM UNMESH                     | CSE  | aunmesh@iitk.ac.in  | Wednesday    | P/CSE/2011-12/2  |
+|   13175 | AVINASH CHOUHAN                 | CSE  | cavinash@iitk.ac.in | Wednesday    | P/CSE/2011-12/3  |
+|   13176 | AVINASH KUMAR                   | CSE  | avicky@iitk.ac.in   | Wednesday    | P/CSE/2011-12/4  |
+|   13177 | AVINASH MOHAK                   | CSE  | amohak@iitk.ac.in   | Wednesday    | P/CSE/2011-12/5  |
+|   13180 | AYUSH AGARWAL                   | CSE  | ayushaga@iitk.ac.in | Wednesday    | P/CSE/2011-12/6  |
+|   13196 | BAVISHI ROHAN JAYESH            | CSE  | rbavishi@iitk.ac.in | Wednesday    | P/CSE/2011-12/7  |
+|   13203 | BHUVESH KUMAR                   | CSE  | bhuvesh@iitk.ac.in  | Wednesday    | P/CSE/2011-12/8  |
+|   13212 | CHAMBHARE AVINASH SURESH        | CSE  | avisc@iitk.ac.in    | Wednesday    | P/CSE/2011-12/9  |
+|   13219 | CHILUKURI KRISHNA BHARATH REDDY | CSE  | crkrish@iitk.ac.in  | Wednesday    | P/CSE/2011-12/10 |
+|   13221 | CHUNDURI PRAMOD                 | CSE  | chpramod@iitk.ac.in | Wednesday    | P/CSE/2011-12/11 |
+|   13229 | DEEPAK KUMAR                    | CSE  | depak@iitk.ac.in    | Wednesday    | P/CSE/2011-12/12 |
+|   13240 | DEVASHISH KUMAR YADAV           | CSE  | devyadav@iitk.ac.in | Thursday     | P/CSE/2011-12/15 |
+|   13257 | DIPTI SINGHAL                   | CSE  | dipti@iitk.ac.in    | Wednesday    | P/CSE/2011-12/13 |
+|   13264 | DIVYANSHU SANJAY SHENDE         | CSE  | divush@iitk.ac.in   | Wednesday    | P/CSE/2011-12/14 |
+|   13265 | DORNALA MANIKANTA REDDY         | CSE  | manikant@iitk.ac.in | Wednesday    | P/CSE/2011-12/15 |
+|   13266 | DRISHTI WALI                    | CSE  | drishti@iitk.ac.in  | Thursday     | P/CSE/2011-12/62 |
+|   13274 | GAURAV                          | CSE  | pgaurav@iitk.ac.in  | Thursday     | P/CSE/2011-12/20 |
+|   13288 | HARPREET SINGH                  | CSE  | hsinghc@iitk.ac.in  | Wednesday    | P/CSE/2011-12/16 |
+|   13309 | HIMANSHU SHUKLA                 | CSE  | hshukla@iitk.ac.in  | Thursday     | P/CSE/2011-12/47 |
+|   13323 | JANISH JINDAL                   | CSE  | janish@iitk.ac.in   | Thursday     | P/CSE/2011-12/23 |
+|   13331 | JUGANU MANTAWAL                 | CSE  | juganu@iitk.ac.in   | Wednesday    | P/CSE/2011-12/17 |
+|   13334 | K GOUTHAM REDDY                 | CSE  | greddy@iitk.ac.in   | Wednesday    | P/CSE/2011-12/18 |
+|   13336 | KAMESH KANWARIYA                | CSE  | kkamesh@iitk.ac.in  | Wednesday    | P/CSE/2011-12/32 |
+|   13344 | KEERTI ANAND                    | CSE  | keertian@iitk.ac.in | Thursday     | P/CSE/2011-12/49 |
+|   13352 | KOLLURI AASHISH                 | CSE  | kolluri@iitk.ac.in  | Wednesday    | P/CSE/2011-12/20 |
+|   13358 | KRITI JOSHI                     | CSE  | kritij@iitk.ac.in   | Wednesday    | P/CSE/2011-12/21 |
+|   13363 | KUMAR MANVENDRA PRAMENDRA       | CSE  | mpkkumar@iitk.ac.in | Wednesday    | P/CSE/2011-12/35 |
+|   13378 | M ARUNOTHIA                     | CSE  | arunothi@iitk.ac.in | Wednesday    | P/CSE/2011-12/23 |
+|   13399 | MAYANK JOSHI                    | CSE  | jsmayank@iitk.ac.in | Wednesday    | P/CSE/2011-12/24 |
+|   13405 | MEKALA DHEERAJ                  | CSE  | dheerajm@iitk.ac.in | Wednesday    | P/CSE/2011-12/33 |
+|   13420 | NAMAN SOGANI                    | CSE  | namansg@iitk.ac.in  | Wednesday    | P/CSE/2011-12/48 |
+|   13444 | NIRBHAY JAGDISH MODHE           | CSE  | nirbhaym@iitk.ac.in | Thursday     | P/CSE/2011-12/50 |
+|   13447 | NISHANT GUPTA                   | CSE  | nishgu@iitk.ac.in   | Wednesday    | P/CSE/2011-12/56 |
+|   13449 | NISHANT RAI                     | CSE  | nishantr@iitk.ac.in | Wednesday    | P/CSE/2011-12/36 |
+|   13453 | PALAK AGARWAL                   | CSE  | palakag@iitk.ac.in  | Thursday     | P/CSE/2011-12/51 |
+|   13455 | PALASH CHAUHAN                  | CSE  | palashc@iitk.ac.in  | Wednesday    | P/CSE/2011-12/37 |
+|   13458 | PAMPANA SAI KISHAN              | CSE  | pkishan@iitk.ac.in  | Wednesday    | P/CSE/2011-12/38 |
+|   13460 | PANKAJ KUMAR SINGH              | CSE  | kspankaj@iitk.ac.in | Wednesday    | P/CSE/2011-12/39 |
+|   13463 | PANYAM GOWTHAM SAI              | CSE  | gowtham@iitk.ac.in  | Wednesday    | P/CSE/2011-12/40 |
+|   13464 | PARAG BANSAL                    | CSE  | paragb@iitk.ac.in   | Wednesday    | P/CSE/2011-12/29 |
+|   13465 | PATEL JEET SHAILESHKUMAR        | CSE  | jeetp@iitk.ac.in    | Wednesday    | P/CSE/2011-12/42 |
+|   13474 | PIYUSH MOHAPATRA                | CSE  | mppiyush@iitk.ac.in | Wednesday    | P/CSE/2011-12/53 |
+|   13477 | PIYUSH SNEH TIRKEY              | CSE  | psneh@iitk.ac.in    | Wednesday    | P/CSE/2011-12/57 |
+|   13480 | PRABHANSHU ABHISHEK             | CSE  | pabhi@iitk.ac.in    | Monday       | P/CSE/2011-12/38 |
+|   13491 | PRANAV VAISH                    | CSE  | vaish@iitk.ac.in    | Monday       | P/CSE/2011-12/39 |
+|   13493 | PRANSHU GUPTA                   | CSE  | pranshug@iitk.ac.in | Monday       | P/CSE/2011-12/40 |
+|   13496 | PRASHANT KUMAR                  | CSE  | prshntk@iitk.ac.in  | Monday       | P/CSE/2011-12/29 |
+|   13508 | PREETANSH GOYAL                 | CSE  | preetg@iitk.ac.in   | Monday       | P/CSE/2011-12/42 |
+|   13509 | PREYANSH MITHARWAL              | CSE  | preyansh@iitk.ac.in | Monday       | P/CSE/2011-12/53 |
+|   13510 | PRINCE KHATARKAR                | CSE  | kprince@iitk.ac.in  | Monday       | P/CSE/2011-12/54 |
+|   13523 | R SUNDARARAJAN                  | CSE  | rsundar@iitk.ac.in  | Monday       | P/CSE/2011-12/55 |
+|   13525 | RACHITA CHHAPARIA               | CSE  | rachitac@iitk.ac.in | Monday       | P/CSE/2011-12/25 |
+|   13532 | RAHUL KUMAR                     | CSE  | rkrahul@iitk.ac.in  | Monday       | P/CSE/2011-12/37 |
+|   13533 | RAHUL KUMAR WADBUDE             | CSE  | warahul@iitk.ac.in  | Monday       | P/CSE/2011-12/57 |
+|   13538 | RAHUL TUDU                      | CSE  | trahul@iitk.ac.in   | Monday       | P/CSE/2011-12/58 |
+|   13546 | RAJNESH KUMAR MEENA             | CSE  | rajnesh@iitk.ac.in  | Thursday     | P/CSE/2011-12/1  |
+|   13561 | RAYAVARAPU NARASIMHA VISWANADH  | CSE  | rnvissu@iitk.ac.in  | Thursday     | P/CSE/2011-12/2  |
+|   13564 | REVANT TEOTIA                   | CSE  | trevant@iitk.ac.in  | Thursday     | P/CSE/2011-12/3  |
+|   13572 | RISHABH GUPTA                   | CSE  | rishgup@iitk.ac.in  | Thursday     | P/CSE/2011-12/4  |
+|   13594 | SACHIN KUMAR                    | CSE  | sachinkr@iitk.ac.in | Thursday     | P/CSE/2011-12/5  |
+|   13601 | SAHIL GROVER                    | CSE  | gsahil@iitk.ac.in   | Thursday     | P/CSE/2011-12/6  |
+|   13616 | SANDIPAN MANDAL                 | CSE  | mandals@iitk.ac.in  | Thursday     | P/CSE/2011-12/7  |
+|   13617 | SANJANA GARG                    | CSE  | gsanjana@iitk.ac.in | Thursday     | P/CSE/2011-12/8  |
+|   13618 | SANJARI SRIVASTAVA              | CSE  | sanjari@iitk.ac.in  | Thursday     | P/CSE/2011-12/9  |
+|   13623 | SARANSH SRIVASTAVA              | CSE  | ssaransh@iitk.ac.in | Thursday     | P/CSE/2011-12/10 |
+|   13624 | SARTHAK GARG                    | CSE  | gsarthak@iitk.ac.in | Thursday     | P/CSE/2011-12/11 |
+|   13652 | SHASWAT CHAUBEY                 | CSE  | schaubey@iitk.ac.in | Thursday     | P/CSE/2011-12/12 |
+|   13655 | SHIV SHANKAR AZAD               | CSE  | shivazad@iitk.ac.in | Thursday     | P/CSE/2011-12/13 |
+|   13660 | SHIVAM MALHOTRA                 | CSE  | mshivam@iitk.ac.in  | Thursday     | P/CSE/2011-12/14 |
+|   13671 | SHRUTI BHARGAVA                 | CSE  | shrutib@iitk.ac.in  | Thursday     | P/CSE/2011-12/16 |
+|   13674 | SHUBHAM AGRAWAL                 | CSE  | subm@iitk.ac.in     | Thursday     | P/CSE/2011-12/17 |
+|   13683 | SHUBHAM JAIN                    | CSE  | shubhja@iitk.ac.in  | Thursday     | P/CSE/2011-12/18 |
+|   13706 | SONKAMBLE MANISHMURLIDHAR       | CSE  | manishs@iitk.ac.in  | Thursday     | P/CSE/2011-12/32 |
+|   13708 | SOUMYA GAYEN                    | CSE  | gsoumya@iitk.ac.in  | Thursday     | P/CSE/2011-12/21 |
+|   13709 | SOURAV ANAND                    | CSE  | souravan@iitk.ac.in | Thursday     | P/CSE/2011-12/35 |
+|   13742 | TARUN KUMAR                     | CSE  | tarunkr@iitk.ac.in  | Thursday     | P/CSE/2011-12/24 |
+|   13744 | TEEKAM CHAND MANDAN             | CSE  | tcmandan@iitk.ac.in | Thursday     | P/CSE/2011-12/33 |
+|   13754 | UTKARSH AGARWAL                 | CSE  | utkarsha@iitk.ac.in | Thursday     | P/CSE/2011-12/48 |
+|   13755 | UTKARSH GUPTA                   | CSE  | gutkarsh@iitk.ac.in | Thursday     | P/CSE/2011-12/56 |
+|   13760 | VAIBHAV KUMAR                   | CSE  | vaibhvk@iitk.ac.in  | Thursday     | P/CSE/2011-12/36 |
+|   13767 | VANDANA GAUTAM                  | CSE  | vandanag@iitk.ac.in | Thursday     | P/CSE/2011-12/37 |
+|   13779 | VEMULA AKHIL                    | CSE  | vakhil@iitk.ac.in   | Thursday     | P/CSE/2011-12/38 |
+|   13788 | VIKAS JAIN                      | CSE  | vikasj@iitk.ac.in   | Thursday     | P/CSE/2011-12/39 |
+|   13806 | VIVEK VERMA                     | CSE  | vivk@iitk.ac.in     | Thursday     | P/CSE/2011-12/40 |
+|   13819 | ATANU CHAKRABORTY               | CSE  | atanu@iitk.ac.in    | Monday       | P/CSE/2011-12/2  |
