@@ -1,6 +1,7 @@
 # The list of lectures.
 
-LECTURES= GettingStarted
+LECTURES= GettingStarted \
+          DocumentsUsingLaTeX
 
 RSYNC_HOST=ppk@turing.cse.iitk.ac.in
 DOCROOT=/homepages/global/ppk
