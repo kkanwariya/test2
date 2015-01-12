@@ -11,7 +11,7 @@
 # Git
 
 1. Clone a popular repository like https://github.com/jquery/jquery on
-   your macine and do some standard git commands on some repositories.
+   your machine and do some standard git commands on some repositories.
 
    * git log
    * git branch
