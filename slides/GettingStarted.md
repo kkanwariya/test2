@@ -85,7 +85,7 @@ $ git clone git@bitbucket.org/ppk-teach/tools
 (This is to be done only after ssh key is set up. Other wise  use)
 
 ```bash
-$ git clone https://amartya20x@bitbucket.org/ppk-teach/tools.git
+$ git clone https://your-bitbucket-userid@bitbucket.org/ppk-teach/tools.git
 ```
 
 ## Every repository is first class
