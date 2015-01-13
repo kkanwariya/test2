@@ -79,8 +79,17 @@ $ git init
 
 > - Clone
 
+
 ```bash
-$ git clone git@bitbucket.org/ppk-teach/tools
+$ git clone https://your-bitbucket-userid@bitbucket.org/ppk-teach/tools.git
+```
+
+. . .
+
+If you have set up your ssh key you can also use
+
+```bash
+$ git clone git@bitbucket.org:ppk-teach/tools
 ```
 
 ## Every repository is first class
